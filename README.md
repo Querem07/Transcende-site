@@ -1,2 +1,2 @@
-# Transcende-site
+# Transcende site
 Website de Clinica Psicopedagogica
